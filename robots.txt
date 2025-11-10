@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fabulous-stardust-5ac83a.netlify.app/sitemap.xml
